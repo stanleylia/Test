@@ -1,4 +1,4 @@
-module License-1
+module Github-test
 
 go 1.17
 
